@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.jumbotron{
+    background-image: url(../images/bacteria.jpg);
+}
+
+.jumbotron h1 {
+    color: palegoldenrod;
+    border: black 1px;
+}
+
+.jumbotron p {
+    color:palegoldenrod;
+    border: black 1px;
+}
+
+.white-text h2 {
+    color: palegoldenrod;
+    border: black;
+}
+.col-md-12 p {
+    color: paleturquoise;
+}
+
+body {
+    background-color: rgb(61, 59, 66);
+}
